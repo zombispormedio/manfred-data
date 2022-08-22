@@ -26,17 +26,75 @@
       {
         "name": "Spanish"
       }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
         {
           "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
           "type": "technology"
         },
         {
