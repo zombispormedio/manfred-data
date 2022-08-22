@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Xavier",
+      "surnames": "Serrano",
+      "title": "Software Engineer 🌍",
+      "avatar": {
+        "alt": "avatar.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/82d2a1f0-0207-47dd-bb0e-138626266201_avatar.jpg"
+      },
+      "location": {
+        "notes": "Elche"
+      }
+    }
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ]
+  }
+}
