@@ -447,13 +447,19 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -477,13 +483,13 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Kafka",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "SQL",
           "type": "technology"
         }
       }
