@@ -85,6 +85,11 @@
           {
             "name": " Senior Full Stack Developer",
             "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "I worked on the SaaS product, searching opportunities and developing features to help customers with supply chain traceability and quality assurance management.\nWe built the application ecosystem over microservices in Node.js powered by Google Cloud Run, MongoDB and Google PubSub. The frontend was developed in React, Tailwind and React Query."
+              }
+            ],
             "competences": [
               {
                 "name": "Google Cloud",
