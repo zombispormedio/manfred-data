@@ -59,6 +59,58 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Lansweeper",
+          "image": {
+            "alt": "1519908477756.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/915fa656-daf7-407e-8f0a-75b17adab68f_1519908477756.jpeg"
+          },
+          "URL": "https://www.lansweeper.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer, Site Reliability",
+            "startDate": "2020-04-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Participated in the founding of a team focused on the cloud platform's reliability. One of the great achievements of the team was to contribute considerably to the company obtaining the SOC2 certification. We worked on the establishment of incident management, on-call, and disaster recovery processes, taking continuous delivery to the next level by introducing ArgoCD, enhancing the observability of the system integrating traces and metrics in the development workflow through Prometheus, Istio, OpenTelemetry, and Honeycomb, and also working on libraries and solutions. We worked hard on scalability, running performance reviews, and introducing Keda as an event-driven autoscaling system. All this included giving training sessions to the rest of the teams. We also took care of the infrastructure on AWS using Terraform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
