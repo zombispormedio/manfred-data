@@ -319,6 +319,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sonneil",
+          "image": {
+            "alt": "1540804603191.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f0716fa1-df8a-4aab-8fe7-e00f6b31f977_1540804603191.jpeg"
+          },
+          "URL": "https://www.sonneil.com/es"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2015-06-01",
+            "finishDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": "Build a SEO-friendly server-side rendering website and strong backend services.\nImproved staff productivity developing features like alerts, third-party integrations and add-ons for the internal CRM/CMS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
