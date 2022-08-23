@@ -141,10 +141,6 @@
                 "type": "technology"
               },
               {
-                "name": "Go",
-                "type": "technology"
-              },
-              {
                 "name": "Kafka",
                 "type": "technology"
               },
