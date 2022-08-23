@@ -111,6 +111,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Lansweeper",
+          "image": {
+            "alt": "1519908477756.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/73301815-eb8b-4293-9d0a-70cda0afcd13_1519908477756.jpeg"
+          },
+          "URL": "https://www.lansweeper.com/"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Engineer, Product",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Mainly worked on the company's cloud platform. Building features in the inventory section, integrating Auth0 as an identity solution on the platform and rethinking the way that organizations and users interact with the platform. Actively participated in the migration from AWS ECS to Kubernetes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
