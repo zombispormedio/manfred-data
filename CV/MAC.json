@@ -275,6 +275,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Cookpad",
+          "image": {
+            "alt": "1519866198123.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/240c23bf-8052-43f1-b795-78cb891ab5b9_1519866198123.jpeg"
+          },
+          "URL": "https://cookpad.es/"
+        },
+        "roles": [
+          {
+            "name": "Android Developer",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Worked in an international team, formed by people from Beirut to Indonesia. Contributed to the Android application and the Ruby on Rails backend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
