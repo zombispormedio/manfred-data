@@ -249,7 +249,7 @@
           "URL": "https://www.alicantefrontend.es/",
           "image": {
             "alt": "Captura de Pantalla 2022-08-23 a las 11.14.17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/8c1506d6-8414-451e-9d7b-e30ff489efcc_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ebb34954-7927-4715-a9a1-a3b97f54aa42_captura-de-pantalla-.png"
           }
         },
         "type": "talk",
@@ -259,6 +259,9 @@
             "name": "React",
             "type": "technology"
           }
+        ],
+        "tags": [
+          "Alicante Frontend"
         ]
       }
     ]
