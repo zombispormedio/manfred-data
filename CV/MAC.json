@@ -471,6 +471,12 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
