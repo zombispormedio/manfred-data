@@ -24,6 +24,44 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Trazable",
+          "image": {
+            "alt": "1521195547759.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f8a1d2ac-9802-43fe-859f-055dca884899_1521195547759.jpeg"
+          },
+          "URL": "https://trazable.io/"
+        },
+        "roles": [
+          {
+            "name": " Senior Full Stack Developer",
+            "startDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
