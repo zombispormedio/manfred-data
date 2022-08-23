@@ -179,6 +179,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Suez",
+          "image": {
+            "alt": "1519949287744.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/c4a63083-f38e-4cb1-bfab-09b4aeecf289_1519949287744.jpeg"
+          },
+          "URL": "https://www.suez.com/en"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Engineer",
+            "startDate": "2017-10-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Contributed to services aimed to integrate all company products, like single sign-on, i18n and organizational structures management.\nBuild an ambitious system to manage and monitor IoT assets related to water resources management.\nGave several React trainings."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NEO4J",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
