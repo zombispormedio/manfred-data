@@ -33,6 +33,18 @@
     ],
     "recommendations": [
       {
+        "title": "PagerDuty Incident Response",
+        "type": "other",
+        "URL": "https://response.pagerduty.com/",
+        "authors": [
+          {
+            "name": "PagerDuty",
+            "surnames": "PagerDuty",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Testing in Production, the safe way",
         "type": "reading",
         "URL": "https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1",
