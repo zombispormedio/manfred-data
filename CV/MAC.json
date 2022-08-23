@@ -16,7 +16,13 @@
       "location": {
         "notes": "Elche"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/xsedev/"
+      }
+    ]
   },
   "knowledge": {
     "languages": [
@@ -79,6 +85,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/xsedev/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
