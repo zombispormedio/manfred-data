@@ -239,6 +239,21 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Master of Business Administration - MBA",
+        "startDate": "2021-09-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "Universidad Miguel Hernández de Elche",
+          "URL": "https://www.umh.es/",
+          "image": {
+            "alt": "1591632939923.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ba06e9f6-b359-49de-bd0a-8e7e43b60073_1591632939923.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Engineer's degree, Multimedia",
         "startDate": "2012-09-01",
         "finishDate": "2016-07-01",
