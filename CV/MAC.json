@@ -234,6 +234,49 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Engineer's degree, Multimedia",
+        "startDate": "2012-09-01",
+        "finishDate": "2016-07-01",
+        "institution": {
+          "name": "Universitat d'Alacant",
+          "URL": "https://www.ua.es/",
+          "image": {
+            "alt": "1519952024667.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/25536725-f3e8-4592-a56b-609c53a5bf85_1519952024667.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "3D Studio Max",
+            "type": "technology"
+          },
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
