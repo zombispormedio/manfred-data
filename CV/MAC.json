@@ -244,12 +244,12 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "React Hooked on a Feeling",
+          "name": "Alicante Frontend",
           "description": "The main topic of the talk was React Hooks, a very hot and addictive React feature that will be a pleasure for the most experienced and for those new to React.\n\nWe commented the impact of Hooks and discussed what they are like, how they work, and how they will affect the future of React and the web in general.",
           "URL": "https://www.alicantefrontend.es/",
           "image": {
             "alt": "Captura de Pantalla 2022-08-23 a las 11.14.17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ebb34954-7927-4715-a9a1-a3b97f54aa42_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/a3166487-3948-4d56-b118-1672f4c6a491_captura-de-pantalla-.png"
           }
         },
         "type": "talk",
@@ -261,7 +261,7 @@
           }
         ],
         "tags": [
-          "Alicante Frontend"
+          "React Hooked on a Feeling"
         ]
       }
     ]
