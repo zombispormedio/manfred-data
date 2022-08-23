@@ -237,6 +237,20 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "First Certificate in English (FCE)",
+        "startDate": "2017-06-01",
+        "institution": {
+          "name": "Cambridge University Press & Assessment",
+          "URL": "https://www.cambridge.org/",
+          "image": {
+            "alt": "1627841333886.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/54c7b4f6-0af9-4059-ad78-0553e55ee8bb_1627841333886.jpeg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Business Administration - MBA",
