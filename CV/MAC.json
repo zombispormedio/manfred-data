@@ -19,6 +19,14 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/zombispormedio"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/zombispormedio"
+      },
+      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/xsedev/"
       }
