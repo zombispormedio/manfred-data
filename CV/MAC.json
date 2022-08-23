@@ -33,6 +33,18 @@
     ],
     "recommendations": [
       {
+        "title": "A Complete Guide to useEffect",
+        "type": "reading",
+        "URL": "https://overreacted.io/a-complete-guide-to-useeffect/",
+        "authors": [
+          {
+            "name": "Dan",
+            "surnames": "Abramov",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "PagerDuty Incident Response",
         "type": "other",
         "URL": "https://response.pagerduty.com/",
