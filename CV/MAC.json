@@ -299,7 +299,7 @@
             "finishDate": "2017-10-01",
             "challenges": [
               {
-                "description": "Build, from zero to one, an application for a famous football team including news feed, real-time match stats and gamification among other features. Focusing on Clean Code architecture, Reactive programming with RxJava and Material Design Guidelines with Android Support components. \nLibraries that we used: Retrofit 2, GreenDAO, Butterknife, and Dagger 2.\nSuccessfully published in Google Play."
+                "description": "We build an application for a famous football team including news feed, real-time match stats and gamification among other features. During the development, we followed good practices like Clean Code architecture, Reactive programming with RxJava and Material Design Guidelines with Android Support components. \nLibraries that we used: Retrofit 2, GreenDAO, Butterknife, and Dagger 2.\nThe application was successfully published in Google Play."
               }
             ],
             "competences": [
