@@ -239,6 +239,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "From The Bench Games",
+          "image": {
+            "alt": "1519921997289.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/da60ca99-51fb-4446-a201-be05cdcfadc8_1519921997289.jpeg"
+          },
+          "URL": "https://www.fromthebenchgames.com/"
+        },
+        "roles": [
+          {
+            "name": "Android Developer",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "Build, from zero to one, an application for a famous football team including news feed, real-time match stats and gamification among other features. Focusing on Clean Code architecture, Reactive programming with RxJava and Material Design Guidelines with Android Support components. \nLibraries that we used: Retrofit 2, GreenDAO, Butterknife, and Dagger 2.\nSuccessfully published in Google Play."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "RxJava",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
