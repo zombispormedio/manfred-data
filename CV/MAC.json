@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/82d2a1f0-0207-47dd-bb0e-138626266201_avatar.jpg"
       },
       "location": {
-        "notes": "Elche"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Elche"
       }
     },
     "relevantLinks": [
@@ -84,7 +86,7 @@
         },
         "roles": [
           {
-            "name": " Senior Full Stack Developer",
+            "name": "Full Stack Engineer",
             "startDate": "2022-03-01",
             "challenges": [
               {
@@ -599,6 +601,11 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     }
   }
