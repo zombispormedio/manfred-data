@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Elche",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Elche"
       }
     },
     "relevantLinks": [
@@ -46,8 +45,7 @@
             "surnames": "Abramov",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "PagerDuty Incident Response",
@@ -59,8 +57,7 @@
             "surnames": "PagerDuty",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Testing in Production, the safe way",
@@ -72,8 +69,7 @@
             "surnames": "Sridharan",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -90,7 +86,7 @@
         },
         "roles": [
           {
-            "name": "Senior Full Stack Engineer",
+            "name": "Full Stack Engineer",
             "startDate": "2022-03-01",
             "challenges": [
               {
@@ -439,12 +435,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -512,7 +506,6 @@
         "finishDate": "2022-07-01",
         "institution": {
           "name": "Universidad Miguel Hernández de Elche",
-          "description": "",
           "URL": "https://www.umh.es/",
           "image": {
             "alt": "1591632939923.jpeg",
@@ -528,7 +521,6 @@
         "finishDate": "2016-07-01",
         "institution": {
           "name": "Universitat d'Alacant",
-          "description": "",
           "URL": "https://www.ua.es/",
           "image": {
             "alt": "1519952024667.jpeg",
@@ -615,7 +607,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
