@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,30 +11,16 @@
       "title": "Software engineer with product and site reliability mindset",
       "description": "I have been always passionate about building things and making friends. That's why I want to work on product companies, because they are the places where people come together to change the world. \n\nI am proactive, motivated and I am always thinking about people/team/community. Because, technology is just the way, we need to fix people problems.\n\nDuring my career, I have developed a product + site reliability mindset. I have been able to work together with product managers and designers to find new opportunities. And working in site reliability has helped me to refine topics such as continuous delivery, observability, resilience, and operational and infrastructure work.\nNow I'm obsessed with observability and I think it is something can empower us to build a great software and serve our customers better. \n\nI define myself as a product engineer with different skills, who always wants to have a global vision, and will always work committed with his team to deliver the best product. ",
       "avatar": {
-        "alt": "avatar.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/82d2a1f0-0207-47dd-bb0e-138626266201_avatar.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/22/82d2a1f0-0207-47dd-bb0e-138626266201_avatar.jpg",
+        "alt": "avatar.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJo1fOTiy0Yw0R3STna3zepdk)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Elche",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Elche"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/zombispormedio"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/zombispormedio"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/xsedev/"
-      }
-    ],
     "recommendations": [
       {
         "title": "A Complete Guide to useEffect",
@@ -46,8 +32,7 @@
             "surnames": "Abramov",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "PagerDuty Incident Response",
@@ -59,8 +44,7 @@
             "surnames": "PagerDuty",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Testing in Production, the safe way",
@@ -72,8 +56,7 @@
             "surnames": "Sridharan",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       }
     ]
   },
@@ -83,8 +66,8 @@
         "organization": {
           "name": "Trazable",
           "image": {
-            "alt": "1521195547759.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f8a1d2ac-9802-43fe-859f-055dca884899_1521195547759.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f8a1d2ac-9802-43fe-859f-055dca884899_1521195547759.jpeg",
+            "alt": "1521195547759.jpeg"
           },
           "URL": "https://trazable.io/"
         },
@@ -122,8 +105,8 @@
         "organization": {
           "name": "Lansweeper",
           "image": {
-            "alt": "1519908477756.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/915fa656-daf7-407e-8f0a-75b17adab68f_1519908477756.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/915fa656-daf7-407e-8f0a-75b17adab68f_1519908477756.jpeg",
+            "alt": "1519908477756.jpeg"
           },
           "URL": "https://www.lansweeper.com/"
         },
@@ -178,8 +161,8 @@
         "organization": {
           "name": "Lansweeper",
           "image": {
-            "alt": "1519908477756.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/73301815-eb8b-4293-9d0a-70cda0afcd13_1519908477756.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/73301815-eb8b-4293-9d0a-70cda0afcd13_1519908477756.jpeg",
+            "alt": "1519908477756.jpeg"
           },
           "URL": "https://www.lansweeper.com/"
         },
@@ -238,8 +221,8 @@
         "organization": {
           "name": "Suez",
           "image": {
-            "alt": "1519949287744.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/c4a63083-f38e-4cb1-bfab-09b4aeecf289_1519949287744.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/c4a63083-f38e-4cb1-bfab-09b4aeecf289_1519949287744.jpeg",
+            "alt": "1519949287744.jpeg"
           },
           "URL": "https://www.suez.com/en"
         },
@@ -298,8 +281,8 @@
         "organization": {
           "name": "From The Bench Games",
           "image": {
-            "alt": "1519921997289.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/da60ca99-51fb-4446-a201-be05cdcfadc8_1519921997289.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/da60ca99-51fb-4446-a201-be05cdcfadc8_1519921997289.jpeg",
+            "alt": "1519921997289.jpeg"
           },
           "URL": "https://www.fromthebenchgames.com/"
         },
@@ -334,8 +317,8 @@
         "organization": {
           "name": "Cookpad",
           "image": {
-            "alt": "1519866198123.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/240c23bf-8052-43f1-b795-78cb891ab5b9_1519866198123.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/240c23bf-8052-43f1-b795-78cb891ab5b9_1519866198123.jpeg",
+            "alt": "1519866198123.jpeg"
           },
           "URL": "https://cookpad.es/"
         },
@@ -378,8 +361,8 @@
         "organization": {
           "name": "Sonneil",
           "image": {
-            "alt": "1540804603191.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f0716fa1-df8a-4aab-8fe7-e00f6b31f977_1540804603191.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/f0716fa1-df8a-4aab-8fe7-e00f6b31f977_1540804603191.jpeg",
+            "alt": "1540804603191.jpeg"
           },
           "URL": "https://www.sonneil.com/es"
         },
@@ -418,20 +401,20 @@
           "description": "The main topic of the talk was React Hooks, a very hot and addictive React feature that will be a pleasure for the most experienced and for those new to React.\n\nWe commented the impact of Hooks and discussed what they are like, how they work, and how they will affect the future of React and the web in general.",
           "URL": "https://www.alicantefrontend.es/",
           "image": {
-            "alt": "Captura de Pantalla 2022-08-23 a las 11.14.17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/a3166487-3948-4d56-b118-1672f4c6a491_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/a3166487-3948-4d56-b118-1672f4c6a491_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-08-23 a las 11.14.17.png"
           }
         },
         "type": "talk",
         "publishingDate": "2019-06-01",
+        "tags": [
+          "React Hooked on a Feeling"
+        ],
         "relatedCompetences": [
           {
             "name": "React",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "React Hooked on a Feeling"
         ]
       }
     ]
@@ -439,11 +422,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -456,25 +439,7 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -486,13 +451,19 @@
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -501,47 +472,42 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master of Business Administration - MBA",
-        "startDate": "2021-09-01",
-        "finishDate": "2022-07-01",
-        "institution": {
-          "name": "Universidad Miguel Hernández de Elche",
-          "description": "",
-          "URL": "https://www.umh.es/",
-          "image": {
-            "alt": "1591632939923.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ba06e9f6-b359-49de-bd0a-8e7e43b60073_1591632939923.jpeg"
-          }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Engineer's degree, Multimedia",
         "startDate": "2012-09-01",
-        "finishDate": "2016-07-01",
         "institution": {
           "name": "Universitat d'Alacant",
-          "description": "",
           "URL": "https://www.ua.es/",
           "image": {
-            "alt": "1519952024667.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/25536725-f3e8-4592-a56b-609c53a5bf85_1519952024667.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/25536725-f3e8-4592-a56b-609c53a5bf85_1519952024667.jpeg",
+            "alt": "1519952024667.jpeg"
           }
         },
+        "finishDate": "2016-07-01",
         "linkedCompetences": [
           {
-            "name": "3D Studio Max",
+            "name": "AngularJS",
             "type": "technology"
           },
           {
-            "name": "AngularJS",
+            "name": "Autodesk 3D Studio Max",
             "type": "technology"
           },
           {
@@ -561,6 +527,41 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master of Business Administration - MBA",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Universidad Miguel Hernández de Elche",
+          "URL": "https://www.umh.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ba06e9f6-b359-49de-bd0a-8e7e43b60073_1591632939923.jpeg",
+            "alt": "1591632939923.jpeg"
+          }
+        },
+        "finishDate": "2022-07-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -568,8 +569,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/xsedev/"
+          "URL": "https://www.linkedin.com/in/xsedev/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/zombispormedio",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/zombispormedio",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "xsedev@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692819539",
+          "countryCode": "+34"
         }
       ]
     },
@@ -617,5 +635,23 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Working in a product company making an environmental or social change for the better. Also, with a tech challenge, and surrounded by nice people with experience building digital products.",
+    "goodPractices": "Observability driven development | Continuous delivery | Feature flags  | Blameless postmortem | 80/20 Rule",
+    "bookmarks": [
+      {
+        "name": "A Complete Guide to useEffect",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/6f68bb37-3608-4806-b0ec-556956935fe3_yoda.jpg"
+      },
+      {
+        "name": "PagerDuty Incident Response",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/d07ea0bf-e892-4c6e-b52f-75fb6fd6b551_unnamed.png"
+      },
+      {
+        "name": "Testing in Production, the safe way",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/1b9da7b5-ec73-4c30-9f6d-c99172c18dff_1_lfnvvllrgrvxq5scrh.jpeg"
+      }
+    ]
   }
 }
